@@ -1,4 +1,4 @@
-# Hi, I’m Shrestha👋
+# Hi, I’m Shreshtha👋
 
 Creative dev | Beatmaker | ML-in-progress | 18 
 
