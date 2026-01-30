@@ -30,10 +30,4 @@ Transition into ML engineering
 
 ## 📚 What I’m Currently Studying
 
-Regression, gradients, entropy
 
-Normal distribution, Z-scores, probability
-
-Visualization: KDE, histograms, boxplots
-
-Hypothesis testing, correlation, covariance
