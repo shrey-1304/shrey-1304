@@ -1,80 +1,97 @@
-# Hi, I’m Shreshtha 👋
+Hi, I'm Shreshtha 👋
 
-I’m a BCA undergraduate and aspiring Machine Learning Engineer, currently building a strong foundation in data analysis and machine learning fundamentals.
-
-I focus on understanding models from first principles, writing clean implementations, and using data to reason about real-world problems.
+I'm a BCA undergraduate with an interest in Machine Learning, Deep Learning, and AI Research. I'm currently building a strong foundation in data analysis, databases, and machine learning by focusing on fundamental concepts, mathematical understanding, and practical projects.
 
 ---
 
-## What I’m Working On
+What I'm Working On
 
-- Learning machine learning step by step from core mathematics and implementations  
-- Building data analysis and visualization projects  
-- Preparing for data analyst internships as an entry point into ML engineering  
-
----
-
-## Tech Stack
-
-**Languages**  
-- Python  
-- Java  
-- C  
-
-**Data & ML**  
-- NumPy  
-- Pandas  
-- Power BI  
-- Statistics foundations  
-- Exploratory Data Analysis (EDA)  
-
-**Tools**  
-- VS Code  
-- MySQL  
+- Learning Machine Learning and Deep Learning from first principles
+- Building end-to-end data analysis and machine learning projects
+- Strengthening database development with PostgreSQL and SQLAlchemy
+- Exploring research-oriented approaches to machine learning and artificial intelligence
+- Preparing for data analyst and machine learning internship opportunities
 
 ---
 
-## Featured Projects
+Tech Stack
 
-### Neural Network from Scratch (NumPy)
-- Implemented a fully connected neural network using NumPy without high-level ML libraries  
-- Built forward propagation, loss computation, and gradient-based optimization manually  
-- Focused on understanding how learning emerges from matrix operations and gradients  
+Language
 
-### NYC Taxi Trip Duration Prediction
-- Built a regression-based model to predict taxi trip duration using distance derived from latitude and longitude  
-- Applied log transformations, feature engineering, and residual analysis  
-- Evaluated model assumptions and failure cases such as rush-hour traffic and outliers  
+- Python
 
-### Sales Performance Analytics Dashboard | Power BI
-- Designed an interactive Power BI dashboard to analyze sales trends and revenue distribution  
-- Cleaned and transformed raw data using Power Query  
-- Created dynamic KPIs and visualizations to support business decision-making  
+Databases
 
----
+- PostgreSQL
+- MySQL
+- SQLAlchemy
 
-## Creative Work (Selective)
+Data Science & AI
 
-- Producing dark ambient and experimental music  
-- Visual art and digital edits with a focus on composition and storytelling  
+- NumPy
+- Pandas
+- Power BI
+- Statistics
+- Exploratory Data Analysis (EDA)
 
----
+Tools
 
-## Current Goals
-
-- Secure a data analyst internship  
-- Transition into machine learning engineering through applied projects and continuous learning  
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## Currently Studying
+Featured Projects
 
-- Probability and statistics for data analysis  
-- Data visualization principles  
-- Machine learning fundamentals  
+Neural Network from Scratch
+
+- Implemented a fully connected neural network using NumPy.
+- Built forward propagation, backpropagation, and gradient descent without high-level ML frameworks.
+- Focused on understanding the mathematical foundations of neural networks.
+
+NYC Taxi Trip Duration Prediction
+
+- Developed a regression model to predict taxi trip duration.
+- Performed feature engineering, data preprocessing, log transformations, and model evaluation.
+- Conducted statistical analysis and interpreted model performance.
+
+Sales Performance Analytics Dashboard
+
+- Designed an interactive Power BI dashboard for sales analysis.
+- Cleaned and transformed data using Power Query.
+- Built KPIs and visualizations to support business insights.
 
 ---
 
-📫 **Connect with me**  
-- GitHub: https://github.com/shrey-1304  
+Research Interests
+
+- Machine Learning
+- Deep Learning
+- Representation Learning
+- AI Systems
+- Mathematical Foundations of Artificial Intelligence
+
+---
+
+Currently Learning
+
+- PostgreSQL
+- SQLAlchemy
+- Machine Learning
+- Deep Learning
+- Probability and Statistics
+- Data Visualization
+
+---
+
+Current Goal
+
+To secure a Data Analyst internship, strengthen my machine learning expertise, and contribute to AI research through practical projects and continuous learning.
+
+---
+
+Connect
+
+- GitHub: https://github.com/shrey-1304
 - LinkedIn: https://surl.li/tjsvsb
